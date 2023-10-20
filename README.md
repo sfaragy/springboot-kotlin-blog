@@ -1,5 +1,3 @@
-https://github.com/devSuatt/todoApp-springboot-docker
-https://spring.io/guides/tutorials/spring-boot-kotlin/
 https://spring.io/guides/tutorials/spring-boot-kotlin/#maven-build
 
 First: Package build from spring.io
@@ -16,5 +14,7 @@ create a customErrorHandling class to solve that
 The getMapping is not working -- Add tomcat dependency in pom.xml / dependencies in build.gradle.kts
 
 Setup ide for autobuild on code update
+
+
 
 
